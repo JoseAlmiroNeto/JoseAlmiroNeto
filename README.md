@@ -28,6 +28,7 @@ Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programaç�
   
 ##
   
+### <img src="https://media4.giphy.com/media/Ieo88333eatH73xKQG/giphy_s.gif" width="45"> Redes Sociais <img src="https://media4.giphy.com/media/Ieo88333eatH73xKQG/giphy_s.gif" width="45">
 <div>
 <a href="https://www.instagram.com/zikkqq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/zikkqq" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
