@@ -20,4 +20,4 @@
 <a href = "mailto:josealmironettto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/josé-almiro-b0007b21a/?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=QnnQqEyzbxyIWtLyYqUTzQmZUkG3xlzXZwQvQ40&mcid=6851962469594763264&irgwc=1"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JoseAlmiroNeto/JoseAlmiroNeto/blob/output/github-contribution-grid-snake.svg)
