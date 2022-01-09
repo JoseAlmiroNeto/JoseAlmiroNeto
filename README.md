@@ -11,6 +11,11 @@ Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programaç�
   <a href="https://github.com/JoseAlmiroNeto">
   <img height="220" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img align="right" alt="Icon" height="215" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97368866/148666492-042f93a3-6dbb-47dd-9eec-cac277b18007.gif">
+<div>
+  
+##
+  
+### <img src="https://media4.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="45"> Linhuagens em Estudo! <img src="https://media4.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="45">   
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,5 +33,7 @@ Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programaç�
 <a href="https://www.twitch.tv/zikkqq" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 <a href = "mailto:josealmironettto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/josé-almiro-b0007b21a/?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=QnnQqEyzbxyIWtLyYqUTzQmZUkG3xlzXZwQvQ40&mcid=6851962469594763264&irgwc=1"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  
+##
+  
 ![Snake animation](https://github.com/JoseAlmiroNeto/JoseAlmiroNeto/blob/output/github-contribution-grid-snake.svg)
