@@ -1,7 +1,10 @@
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Olá!, Eu sou o <a href="https://github.com/JoseAlmiroNeto">José Almiro</a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+</h1>
 ## Oiii, eu sou o José Almiro, Estudante de Programação e Tecnologia!
 <div align="center">
   <a href="https://github.com/JoseAlmiroNeto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" alt="Icon" height="215" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97368866/148666492-042f93a3-6dbb-47dd-9eec-cac277b18007.gif">
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -9,7 +12,7 @@
   <img align="center" alt="Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png">
-  <img align="right" alt="Icon" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97368866/148666492-042f93a3-6dbb-47dd-9eec-cac277b18007.gif">
+  
 </div>
   
 ##
