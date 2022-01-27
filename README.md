@@ -3,7 +3,7 @@
 </h1>
 
 ### Um pouco sobre mim...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programação. Sou um entusiasta de tecnologia, apaixonado por aprender e trabalhar com novas tecnologias. Amo construir projetos proprios, mesmo que sejam pequenos.
+Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programação. Sou um entusiasta de tecnologia, apaixonado por aprender e trabalhar com novas tecnologias. Amo construir projetos próprios, mesmo que sejam pequenos.
 ### A little about myself... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast, passionate about learning and working with new technologies. I love building my own projects, even if they are small.
 
