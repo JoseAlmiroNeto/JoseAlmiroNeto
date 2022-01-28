@@ -2,15 +2,19 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
+<img align="right" alt="Icon" height="215" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97368866/148666492-042f93a3-6dbb-47dd-9eec-cac277b18007.gif">
+
 ### Um pouco sobre mim...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programação. Sou um entusiasta de tecnologia, apaixonado por aprender e trabalhar com novas tecnologias. Amo construir projetos próprios, mesmo que sejam pequenos.
+Eu sou um Estudante de Graduação de TI🎓 buscando aprender sobre programação.Sou um entusiasta de tecnologia, apaixonado por aprender e trabalhar com novas tecnologias. Amo construir projetos próprios, mesmo que sejam pequenos.
+
 ### A little about myself... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast, passionate about learning and working with new technologies. I love building my own projects, even if they are small.
+I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast,<br> passionate about learning and working with new technologies. I love building my own projects,<br> even if they are small.
+
 
 <div align="center">
   <a href="https://github.com/JoseAlmiroNeto">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Icon" height="215" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97368866/148666492-042f93a3-6dbb-47dd-9eec-cac277b18007.gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlmiroNeto&layout=compact&langs_count=7&theme=midnight-purple"/>
 <div>
   
 ##
@@ -20,10 +24,8 @@ I'm an IT Graduate Student🎓 looking to learn about programming. I am a techno
   <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="C" height="40" width="40" src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.png">
-  
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##
