@@ -13,8 +13,8 @@ I'm an IT Graduate Student🎓 looking to learn about programming. I am a techno
 
 <div align="center">
   <a href="https://github.com/JoseAlmiroNeto">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlmiroNeto&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlmiroNeto&layout=compact&langs_count=7&theme=midnight-purple"/>
 <div>
   
 ##
