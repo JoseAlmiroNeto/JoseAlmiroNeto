@@ -27,6 +27,8 @@ I'm an IT Graduate Student🎓 looking to learn about programming. I am a techno
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="React" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
 </div>
   
 ##
