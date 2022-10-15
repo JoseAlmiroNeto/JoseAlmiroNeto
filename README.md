@@ -7,6 +7,9 @@
 ### A little about myself... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast,<br> passionate about learning and working with new technologies. I love building my own projects,<br> even if they are small.
 
+### A little about myself... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast,<br> passionate about learning and working with new technologies. I love building my own projects,<br> even if they are small.
+
 
 <div align="center">
   <a href="https://github.com/JoseAlmiroNeto">
