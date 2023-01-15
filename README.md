@@ -8,7 +8,7 @@
 I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast,<br> passionate about learning and working with new technologies. I love building my own projects,<br> even if they are small.
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true)
 ##
   
 ### <img src="https://media4.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="45"> Linhuagens em Estudo! <img src="https://media4.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif" width="45">   
