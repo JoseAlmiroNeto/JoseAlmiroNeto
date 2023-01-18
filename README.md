@@ -8,8 +8,6 @@
 I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast,<br> passionate about learning and working with new technologies. I love building my own projects,<br> even if they are small.
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true)
-##
   
 </div>
   <div style="display: inline_block"><br>
