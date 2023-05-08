@@ -10,23 +10,28 @@ I'm an IT Graduate Student🎓 looking to learn about programming. I am a techno
 ##
   
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-  <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,jest,materialui,python,redux)](https://skillicons.dev)
+
+- Back-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,next,graphql)](https://skillicons.dev)
+
+- Tools and Plataforms
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,figma,github,vercel,vscode)](https://skillicons.dev)
+  
 </div>
   
 ##
 
+
+
 |My overall statistics|Top most languages |
 |------------------|-------------|
-|![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&hide_border=true&count_private=true&theme=tokyonight)|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlmiroNeto&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact)|
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=transparent)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlmiroNeto&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
 
 ##
 
