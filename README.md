@@ -13,11 +13,11 @@ I'm an IT Graduate Student🎓 looking to learn about programming. I am a techno
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,jest,materialui,python,redux)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,jest,materialui,python,redux)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,next,graphql)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,graphql)](https://skillicons.dev)
 
 - Tools and Plataforms
 
