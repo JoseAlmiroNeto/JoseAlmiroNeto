@@ -10,9 +10,7 @@
 
 ###
 
-<h2 align="center">A little about myself...</h2>
-
-###
+<h2 align="center" border="none">A little about myself...</h2>
 
 <p align="center">I'm a Front-end Developer with 2 years of experience in the field, specializing in building modern, responsive, and high-performance interfaces. While my primary focus is on front-end development, I also have basic back-end knowledge, which allows me to have a broader perspective on software development. I hold a degree in Information Technology Management, which gives me a solid foundation to understand both the technical and business needs of projects.</p>
 
