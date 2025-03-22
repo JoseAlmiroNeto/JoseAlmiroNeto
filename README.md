@@ -1,45 +1,83 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hello!, My name is José Almiro</a> 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
-</h1>
-
-<img align="right" alt="Icon" height="215" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97368866/148666492-042f93a3-6dbb-47dd-9eec-cac277b18007.gif">
-
-### A little about myself... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I'm an IT Graduate Student🎓 looking to learn about programming. I am a technology enthusiast,<br> passionate about learning and working with new technologies. I love building my own projects,<br> even if they are small.
-
-##
-  
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-- Front-End
+###
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,jest,materialui,python,redux)](https://skillicons.dev)
+<br clear="both">
 
-- Back-End
+<h1 align="center">Hello!, My name is José Almiro</h1>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,prisma,firebase,graphql)](https://skillicons.dev)
+###
 
-- Tools and Plataforms
+<h2 align="center">A little about myself...</h2>
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=azure,git,figma,github,vercel,vscode)](https://skillicons.dev)
-  
+###
+
+<p align="center">I'm a Front-end Developer with 2 years of experience in the field, specializing in building modern, responsive, and high-performance interfaces. While my primary focus is on front-end development, I also have basic back-end knowledge, which allows me to have a broader perspective on software development. I hold a degree in Information Technology Management, which gives me a solid foundation to understand both the technical and business needs of projects.</p>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
 </div>
-  
-##
 
+###
 
+<br clear="both">
 
-|My overall statistics|Top most languages |
-|------------------|-------------|
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&show_icons=true&theme=transparent)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlmiroNeto&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-##
+###
 
-<div>
-<a href="https://www.instagram.com/zikkqq/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/zikkqq" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
-<a href = "mailto:josealmironettto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/josé-almiro-b0007b21a/?src=aff-lilpar&veh=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&trk=aff_src.aff-lilpar_c.partners_pkw.123201_plc.adgoal%20GmbH_pcrid.449670_learning&clickid=QnnQqEyzbxyIWtLyYqUTzQmZUkG3xlzXZwQvQ40&mcid=6851962469594763264&irgwc=1"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+</div>
 
-  
-![Snake animation](https://github.com/JoseAlmiroNeto/JoseAlmiroNeto/blob/output/github-contribution-grid-snake.svg)
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseAlmiroNeto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseAlmiroNeto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JoseAlmiroNeto&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseAlmiroNeto/JoseAlmiroNeto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseAlmiroNeto/JoseAlmiroNeto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseAlmiroNeto/JoseAlmiroNeto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
